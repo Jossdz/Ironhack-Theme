@@ -6,15 +6,30 @@
     "engines": {
         "vscode": "^1.31.0"
     },
+    "icon": "images/Ironhack.png",
+    "publisher": "jossdz",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Jossdz/Ironhack-Theme.git"
+    },
     "categories": [
         "Themes"
     ],
+    "galleryBanner": {
+        "color": "#272e42",
+        "theme": "dark"
+      },
     "contributes": {
         "themes": [
             {
                 "label": "Ironhack Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Ironhack Theme-color-theme.json"
+            },
+            {
+                "label": "Ironhack Italic Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ironhack Italic Theme-color-theme.json"
             }
         ]
     }
