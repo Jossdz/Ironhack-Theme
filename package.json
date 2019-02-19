@@ -32,5 +32,12 @@
                 "path": "./themes/Ironhack Italic Theme-color-theme.json"
             }
         ]
-    }
+    },
+    "scripts": {
+        "start": "nodemon --exec vsce package"
+      },
+    "devDependencies": {
+        "nodemon": "^1.14.12",
+        "vsce": "^1.36.2"
+      }
 }

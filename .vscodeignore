@@ -2,3 +2,5 @@
 .vscode-test/**
 .gitignore
 vsc-extension-quickstart.md
+demo
+ironhack-theme-0.1.0.vsix
