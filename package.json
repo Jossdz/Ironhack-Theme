@@ -2,7 +2,7 @@
     "name": "ironhack-theme",
     "displayName": "Ironhack Theme",
     "description": "Ironhack vscode theme - with love for Ironhackers.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.31.0"
     },
@@ -18,7 +18,7 @@
     "galleryBanner": {
         "color": "#272e42",
         "theme": "dark"
-      },
+    },
     "contributes": {
         "themes": [
             {
